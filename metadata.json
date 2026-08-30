@@ -1,0 +1,6 @@
+{
+  "name": "LiteEngine 2D",
+  "description": "Engine Game 2D Mobile super ringan dan cepat yang dioptimasi khusus untuk smartphone sekelas itel A70 dengan desain UI bergaya Canva Mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
